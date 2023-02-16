@@ -72,5 +72,5 @@ cmd.execute(client, message, args)
 ///aqui evento message
 
 
-client.login("MTA1NzQ5MDI5MTY1MDczNjE3OA.GlMDqr.Q1j-wirimIRawHL7qKebWS9BjeSjAq-Y28wXD4")
+client.login("")
 
